@@ -1,4 +1,4 @@
-// Genera un arreglo de 45 números aleatorios entre 1 y 355
+// crea un arreglo de 45 números aleatorios entre 1 y 355
 const numeros = Array.from({ length: 355}, () => Math.floor(Math.random() * 355) + 1);
 
 // Calcula la suma de los números
