@@ -10,5 +10,5 @@ console.log("$(numero) es par.");
 process.exit(0); // Salida exitosa
 } else {
  console.log("$(numero) es impar.");
-process,exit(0); // Salida exitosa
+process.exit(0); // Salida exitosa
 }
