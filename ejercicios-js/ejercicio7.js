@@ -1,5 +1,5 @@
 // Lista de palabras
-const palabras = ["Hola", "Esleydy", "Luna", "sol", "Universo", "Infinito"];
+const palabras = ["Hola", "julio", "Luna", "sol", "Universo", "Infinito"];
 
 // Elige una palabra al azar
 const palabra = palabras[Math.floor(Math.random() * palabras.length)];
