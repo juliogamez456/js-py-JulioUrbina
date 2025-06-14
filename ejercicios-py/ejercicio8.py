@@ -28,7 +28,7 @@ def main():
     numeros = generar_numeros_aleatorios(cantidad, minimo, maximo)
     suma = calcular_suma(numeros)
 
-    print("\n🔢 Números generados:", numeros)
+    print("\n Números generados:", numeros)
     print(f"➕ Suma total: {suma}")
 
 if __name__ == "__main__":
