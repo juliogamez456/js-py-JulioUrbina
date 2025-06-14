@@ -1,4 +1,4 @@
-# 🔍 Verificador de Par o Impar en Python
+# Verificador de Par o Impar en Python
 import random
 
 def verificar_paridad(numero: int) -> str:
